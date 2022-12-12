@@ -1,0 +1,50 @@
+body{
+    background-color: #fff;
+    font-family: 'Rubik', sans-serif;
+    margin: 0;
+}
+h1{
+    font-weight: 50px;
+}
+.parker{
+    color: orangered;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+   height: 600px;
+   width: 100%;
+ 
+}
+.top{
+    background-image: url(top-banner.png);
+    background-repeat: no-repeat;
+    height: 700px;
+}
+section{
+    height: 500px;
+}
+.link-button{
+    text-decoration: none;
+    background-color: orangered;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: antiquewhite;
+    font-weight: 700px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-image: linear-gradient(45deg,lightsalmon,tomato);
+}
+.insta-link{
+    text-decoration: none;
+    background-color: rgba(32, 153, 38, 0.815);
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: antiquewhite;
+    font-weight: 700px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-image: linear-gradient(45deg, rgba(11, 238, 49, 0.815)rgba(32, 153, 38, 0.815));
+}
